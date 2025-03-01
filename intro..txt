@@ -1,0 +1,17 @@
+Computer Vision depends on image and image processing.
+Image is a collection of pixels.
+Pixel is the smallest unit of image which contain color value and every pixel defines the color intensity in an image.
+To create a good image, we need minimum 300 PPI(Pixel per inch).
+Dots per inch  is a measure of spatial printing, video or image scanner dot density, in particular the number of individual dots that can be placed in a line within the span of 1 inch (2.54 cm). 300 DPI means 300 Dots in 1 inch.
+Video is a collection of images.
+Image processing is a method to perform some operation on an image, in order to get an enhanced image or to extract some useful information from it.
+Computer Vision is a sub part of Artificial Intelligence.
+Computer Vision is an interdisciplinary scientific feild that delas how a computer can gain high level understanding from digital images and videos. From the perspective of engineering, it seeks to understnad and automate tasks that a human visual system do.
+
+OpenCV - It is an open source library for the implementation of Image Processing and Computer Vision.
+In OpenCV, we use array to store an image and numpy library is used to handle array.
+Image is always stored in 2D array.
+There are two types of images - 
+1) Gray scaled images(Single Channel images) - Depends on darkness or brightness
+2) Colored images(3 Channel images) - Depends on RGB(RED, GREEN, BLUE)
+
